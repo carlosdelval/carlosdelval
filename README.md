@@ -1,6 +1,6 @@
-# Hello! 👋 I'm Carlos Delval
+# Hello! 👋 I'm Carlos Del val
 
-### 💻 Full Stack Developer | 🎓 Final Year Student | 🌍 Spain
+### 💻 Full Stack Developer | 🎓 Developer intern | 🌍 Córdoba, Spain
 
 Passionate software developer focused on modern technologies. Constantly learning and building innovative projects.
 
