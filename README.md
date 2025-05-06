@@ -6,7 +6,7 @@ Passionate software developer focused on modern technologies. Constantly learnin
 
 ## 🔍 Currently
 
-- 🔭 Working on my Final Degree Project [Frontend](https://github.com/carlosdelval/Opticlick_React_Front) [Backend](https://github.com/carlosdelval/Opticlick_React_Back) (React + Node.js)
+- 🔭 Working on my **Final Degree Project** [Frontend](https://github.com/carlosdelval/Opticlick_React_Front) [Backend](https://github.com/carlosdelval/Opticlick_React_Back) (React + Node.js)
 - 🌱 Learning **React, Vue and Microservices Architecture**
 
 ## 🛠 Technologies & Tools
