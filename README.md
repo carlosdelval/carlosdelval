@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Developer | 🎓 Developer intern | 🌍 Córdoba, Spain
 
-Passionate software developer focused on modern technologies. Constantly learning and building innovative projects.
+I'm a passionate software developer focused on modern technologies. Constantly learning and building innovative projects.
 
 ## 🔍 Currently
 
