@@ -6,11 +6,14 @@ I'm a passionate software developer focused on modern technologies. I enjoy buil
 
 ## 🔍 Currently
 
-- 👨‍💻 Working as a **Full Stack Web Developer at Veiko**  
+- 📌 Experience: 
+
+**4-month internship at Ventura Espejo S.L.**  
+  Collaborated on projects using **Laravel, PHP, Tailwind CSS**, and the SAGE management system, contributing to both internal tools and client-facing web solutions.
+
+**4 months as a Full Stack Web Developer at Veiko Remarketing S.L.**  
   Creating custom components, modules, and plugins with **PHP, CSS, and WordPress**, ensuring scalability, clean code, and seamless user experience.  
 
-- 📌 Previous experience: **6-month internship at Ventura Espejo S.L.**  
-  Collaborated on projects using **Laravel, PHP, Tailwind CSS**, and the SAGE management system, contributing to both internal tools and client-facing web solutions.  
 
 - 🎓 Final Degree Project – **OptiClick**  
   [Frontend (React + TypeScript)](https://github.com/carlosdelval/Opticlick_React_Front) | [Backend (Node.js + Express)](https://github.com/carlosdelval/Opticlick_React_Back)  
