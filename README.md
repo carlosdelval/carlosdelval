@@ -4,25 +4,14 @@
 
 I'm a passionate software developer focused on modern technologies. I enjoy building innovative projects, learning continuously, and delivering scalable and accessible web applications.
 
-## 🔍 Currently
-
-- 📌 Experience: 
-
-**4-month internship at Ventura Espejo S.L.**  
-  Collaborated on projects using **Laravel, PHP, Tailwind CSS**, and the SAGE management system, contributing to both internal tools and client-facing web solutions.
-
-**4 months as a Full Stack Web Developer at Veiko Remarketing S.L.**  
-  Creating custom components, modules, and plugins with **PHP, CSS, and WordPress**, ensuring scalability, clean code, and seamless user experience.  
-
-
-- 🎓 Final Degree Project – **OptiClick**  
+- Final Degree Project – **OptiClick**  
   [Frontend (React + TypeScript)](https://github.com/carlosdelval/Opticlick_React_Front) | [Backend (Node.js + Express)](https://github.com/carlosdelval/Opticlick_React_Back)  
   A full-stack platform for optical centers with appointment booking, admin dashboard, PDF generation, messaging, notifications, dark mode, and AAA accessibility compliance.  
 
-- 🛍️ Freelance Project – **E-commerce Website for an Optical Store**  
+- Freelance Project – **E-commerce Website for an Optical Store**  
   Built with **React + JavaScript** on the frontend and **Shopify** for product management and sales, focusing on modern UI, SEO optimization, and responsive design.  
 
-- 🌱 Learning **Vue, Microservices Architecture, and Advanced TypeScript**
+- Learning **Vue, Microservices Architecture, and Advanced TypeScript**
 
 ---
 
