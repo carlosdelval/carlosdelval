@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Carlos Del Val
 
-### 💻 Full Stack Web Developer | 🎓 Web Application Development Student | 🌍 Córdoba, Spain
+### 💻 Full Stack Web Developer | 🌍 Córdoba, Spain
 
 I'm a passionate software developer focused on modern technologies. I enjoy building innovative projects, learning continuously, and delivering scalable and accessible web applications.
 
